@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @patilgaurav1499
 - 👀 I’m interested in learning full stack devlopment
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me contact number 9370244834
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on Java Devlopmet projects
+- 📫 How to reach me email id gauravpatil77606@gmail.com
 
 <!---
 patilgaurav1499/patilgaurav1499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
